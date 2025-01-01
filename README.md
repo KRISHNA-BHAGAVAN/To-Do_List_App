@@ -2,7 +2,7 @@
 To-Do List App developed using React js
 
 ## Live Demo
-[To-Do List App](https://<your-username>.github.io/<your-repo-name>)
+[To-Do List App](https://krishna-bhagavan.github.io/To-Do_List_App/)
 
 ### Deployment
 
